@@ -1,0 +1,3 @@
+# Exercises_Git
+
+Writing new line in second file.
