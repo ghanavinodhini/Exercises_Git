@@ -1,0 +1,3 @@
+# Exercises_Git
+This is the Git exercises file
+Editing this file as text file Readme and saving for exercise 2
