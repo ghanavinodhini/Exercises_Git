@@ -1,4 +1,4 @@
 # Exercises_Git
 This is the Git exercises file
-Editing firstfile file as text file Readme and saving for exercise 2
+Editing 2nd line and changing to overcome conflicts
 Modifying 3rd line from web github
